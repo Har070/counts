@@ -123,4 +123,4 @@
 [2022-03-31 12:11:56] local.DEBUG: [Action] Start action {"action":"getRepositoriesList","class":"App\\Http\\Controllers\\ConfigController"}
 [2022-03-31 12:12:08] local.DEBUG: [Secure] Client has been authenticated via JWT token {"client":"621608d62ad65410ac717da3","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU1MjBlYzI5ZTZkMDBjOTcwNzdiNDgiLCJxc2giOiIxNGZlMTIxMDhkNjIwYmU2OWU2ODJjY2ZiNjgwMTlmYjk4OGE2YWNiYmNmZmQ5MGMyOWQxMDU2MmExNTdlMGJhIiwiaXNzIjoiNzFlNTU0ZWItM2JjMS0zODFkLWI2YWUtZWFmOTU5YzAxYjczIiwiY29udGV4dCI6e30sImV4cCI6MTY0ODcyOTYyNiwiaWF0IjoxNjQ4NzI4NzI2fQ.A5Q2D66gYGthjSfLQAXkaLCIiKAvunJNEJV79kFommo"}
 [2022-03-31 12:12:08] local.DEasdBUG: [Action] Start action {"action":"index","class":"App\\Http\\Controllers\\ConfigController"}
-asdasdasd
+asdasdasdasdasd
